@@ -1,14 +1,13 @@
 .navigation {
-	width: 923px;
-	float: left;
-	height: 31px;
-	font-family: Arial, Helvetica, sans-serif;
-	font-size: 101%;
-	position: relative;
+	width:923px;
+	float:left;
+	height:31px;
+	font-family:Arial, Helvetica, sans-serif;
+	font-size:101%;
+	position:relative;
 	/*background-color:#38b274;*/
-	background-color: #333333;
-	left: 18px;
-	background-image: url(two-bands-blue-and-grey-on-a-brown-background-wallpaper-7984.jpg);
+	background-color:#efe10c;
+	left:18px;
 }
 .ddsmoothmenu{
 	float:left;
@@ -25,8 +24,7 @@
 	position: relative;
 	display: inline;
 	float: left;
-	z-index: 9999 !important;
-	background-image: url(two-bands-blue-and-grey-on-a-brown-background-wallpaper-7984.jpg);
+	z-index:9999 !important;
 }
 /*Top level menu link items style*/
 .ddsmoothmenu ul li a{
@@ -45,11 +43,11 @@
 	display: inline-block;
 }
 .ddsmoothmenu ul li a:link, .ddsmoothmenu ul li a:visited{
-	color: white;
+	color: #000000;
 }
 .ddsmoothmenu ul li a.selected{ /*CSS class that's dynamically added to the currently active menu items' LI A element*/
 	color:#000;
-	background-color:#efe10c;
+	background-color:#FF0000;
 }
 .ddsmoothmenu ul li a:hover{
 	color:#000;

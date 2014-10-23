@@ -36,7 +36,7 @@ div.tooltip {
 	width: 883px;
 	height: 32px;
 	display: block;
-	background-color: #99CC00;
+	background-color: #006633;
 	font-size: 0.75em;
 }
 .ticker {
@@ -45,13 +45,13 @@ div.tooltip {
 	display: block;
 	position: relative;
 	overflow: hidden;
-	background-color: #99CC00;
+	background-color: #333333;
 }
 .ticker-title {
 	padding-top: 7px;
-	color: #990000;
+	color: #FF0000;
 	font-weight: bold;
-	background-color: #99CC00;
+	background-color: #333333;
 	text-transform: uppercase;
 }
 .ticker-content {
@@ -60,7 +60,7 @@ div.tooltip {
 	position: absolute;
 	color: #FF0000;
 	font-weight: bold;
-	background-color: #99CC00;
+	background-color: #333333;
 	overflow: hidden;
 	white-space: nowrap;
 	line-height: 1.2em;
@@ -337,12 +337,12 @@ body {
 }
 
 .wrap .spacer {
-	background-color: #fff;
+	background-color: #E9E9E9;
 }
 
 #top {
 	color: #888;
-	background-color: #09854D;
+	background-color: #006633;
 }
 
 #header {

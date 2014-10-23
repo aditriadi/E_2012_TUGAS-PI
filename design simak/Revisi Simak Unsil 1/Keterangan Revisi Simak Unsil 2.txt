@@ -1,0 +1,14 @@
+Revisi Simak unsil 2
+Nama : Adi Triadi Putra
+NPM : 127006251 
+
+* Header
+
+1. Mengganti warna judul pada background header dengan warna hijau agak gelap #006633
+2. Memperbaiki kata pada opsi main menu atau box menu yang di klik akan tampil ke bawah dengan memperbaiki warna textnya menjadi terlihat kembali yang asalnya warna hitam semua sama dengan backgroundnya.
+2. Mengganti warna background pada opsi box dengan warna kuning #efe10c
+3. merubah warna kata kata mutiara pada header menjadi warna merah dan background nya menjadi warna hitam #333333
+
+* Body
+
+1. Menambahkan warna background pada keseluruhan bagian body dengan warna putih agak gelap #E9E9E9
